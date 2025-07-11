@@ -11,7 +11,7 @@ on:
       - main
 # Перечень задач
 jobs:
-  test:
+  tests:
     runs-on: ubuntu-latest
 
     services:
